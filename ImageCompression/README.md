@@ -40,6 +40,6 @@ Keep in mind that as `k` decreases, the compressed image size decreases, but som
 
 For example, if we store an RGB image with dimensions of 1920x1080, we would have 1920x1080x3 = 6,220,800 elements in its matrix. However, by using SVD with k=150, we would only have 1,350,450 matrix elements, resulting in a reduction of the original image size by a factor of 4.6.
 
-Acknowledgments:
+## Acknowledgments:
 
 I would like to express my gratitude to the Teaching Assistants (TAs) of the Linear Algebra course who inspired and guided me in the development of this project.
