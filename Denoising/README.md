@@ -1,4 +1,4 @@
-# Denoising Bitcoin's Price Graph (from Scratch)
+# Denoising Bitcoin's Price Graph using Linear Algebra (from Scratch)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 Spring 2021
 
