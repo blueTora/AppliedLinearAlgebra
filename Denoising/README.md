@@ -49,13 +49,13 @@ The following diagram is for sqrt_lambda = 5.
 
 We can see that the graph noise has increased.
 
-The denoising process successfully removes the noise from Bitcoin's price graph, providing a clearer depiction of the underlying price trends. By minimizing the squared differences between the observed prices and the estimated values, the least-squares method effectively filters out the short-term fluctuations and emphasizes the long-term patterns.
-
 5. The following diagram is for sqrt_lambda = 1:
 
 ![sqrt_lambda=1](https://github.com/negarK2000/AppliedLinearAlgebra/blob/master/Denoising/5.png)
 
 We can see that the de-noised graph is almost identical to the original graph.
+
+The denoising process successfully removes the noise from Bitcoin's price graph, providing a clearer depiction of the underlying price trends. By minimizing the squared differences between the observed prices and the estimated values, the least-squares method effectively filters out the short-term fluctuations and emphasizes the long-term patterns.
 
 ## Acknowledgments:
 
