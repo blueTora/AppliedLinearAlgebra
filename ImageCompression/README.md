@@ -1,6 +1,6 @@
 # Linear Algebra Image Compression (from Scratch)
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 Spring 2021
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 
 <!--I utilized the principles of linear algebra to compress uncompressed BMP photos. By employing SVD decomposition, I reduced their size entirely from scratch, without relying on image compression libraries.-->
 
