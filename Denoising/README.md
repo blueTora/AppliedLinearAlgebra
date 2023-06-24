@@ -1,6 +1,6 @@
 # Denoising Bitcoin's Price Graph using Linear Algebra (from Scratch)
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 Spring 2021
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 
 This project aims to denoise Bitcoin's price graph by utilizing the principles of linear algebra and implementing the least-squares method. The goal is to remove the noise from the original price data and obtain a smoother representation of Bitcoin's price trends.
 
